@@ -2,7 +2,8 @@
 Machine Learning Capstone Project - Udacity MLND(State Farm Distracted Driver Detection)
 
 1.Following are the file descriptions and URL’s from which the data can be obtained :```
-• imgs.zip - zipped folder of all (train/test) images• sample_submission.csv - a sample submission file in the correct format• driver_imgs_list.csv - a list of training images, their subject (driver) id, and class idhttps://www.kaggle.com/c/state-farm-distracted-driver-detection/download/driver_imgs_list.csv.ziphttps://www.kaggle.com/c/state-farm-distracted-driver-detection/download/ imgs.ziphttps://www.kaggle.com/c/state-farm-distracted-driver-detection/download/ sample_submission.csv.zip
+• imgs.zip - zipped folder of all (train/test) images• sample_submission.csv - a sample submission file in the correct format• driver_imgs_list.csv - a list of training images, their subject (driver) id, and class idhttps://www.kaggle.com/c/state-farm-distracted-driver-detection/download/driver_imgs_list.csv.ziphttps://www.kaggle.com/c/state-farm-distracted-driver-detection/download/ imgs.ziphttps://www.kaggle.com/c/state-farm-distracted-driver-detection/download/ sample_submission.csv.zip
+
 ```
 
 
